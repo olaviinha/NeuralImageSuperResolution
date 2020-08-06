@@ -1,6 +1,6 @@
 # Neural Image Super-Resolution (colabs)
 
-This is a collection of Colab Notebooks for various image enhancers in an attempt to restore details in low resolution images in high quality. All notebooks were made to run in Google Colaboratory, using Google Drive as data source and storage.
+This is a collection of Colab Notebooks for various neural image enhancers in an attempt to restore details in low resolution images in high quality. All notebooks were made to run in Google Colaboratory, using Google Drive as data source and storage.
 
 ## Run in Google Colaboratory
 
