@@ -2,7 +2,7 @@
 
 This is a collection of Colab Notebooks for various neural image enhancers in an attempt to enlarge low resolution images with restored details in high quality. All notebooks were made to run in Google Colaboratory, using Google Drive as data source and storage.
 
-## Latest
+## Latest: ESRGAN
 
 Works in Jun 2021.
 
