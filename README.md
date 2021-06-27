@@ -8,7 +8,10 @@ This is a collection of Colab Notebooks for various neural image enhancers in an
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/NeuralImageSuperResolution/blob/master/SuperRes_ESRGAN_v2.ipynb)
 
+![image](https://user-images.githubusercontent.com/50331907/123541722-97416b80-d74e-11eb-9f50-8451100840d6.png)
+
 ## Older
+
 **Colab for:** [uperresolution_gan](https://github.com/fukumame/superresolution_gan). <br>
 **Paper:** Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network https://arxiv.org/abs/1609.04802
 
