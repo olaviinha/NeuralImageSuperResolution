@@ -4,18 +4,17 @@ This is a collection of Colab Notebooks for various neural image enhancers in an
 
 ## Latest
 **Colab for:** [JoeyBallentine's fork](https://github.com/JoeyBallentine/ESRGAN) of [BlueAmulet's fork](https://github.com/BlueAmulet/ESRGAN) of [ESRGAN by Xinntao](https://github.com/xinntao/ESRGAN). <br>
-**Paper:** ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks https://arxiv.org/abs/1809.00219
-
+**Paper:** ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks https://arxiv.org/abs/1809.00219 <br>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/NeuralImageSuperResolution/blob/master/SuperRes_ESRGAN_v2.ipynb)
 
 ## Older
 **Colab for:** [uperresolution_gan](https://github.com/fukumame/superresolution_gan). <br>
-**Paper:** Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network https://arxiv.org/abs/1609.04802
-
+**Paper:** Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network https://arxiv.org/abs/1609.04802 <br>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/NeuralImageSuperResolution/blob/master/image_superres.ipynb) 
 
-**Colab for:** [Neural Enhance](https://github.com/alexjc/neural-enhance)
+---
 
+**Colab for:** [Neural Enhance](https://github.com/alexjc/neural-enhance) <br>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/NeuralImageSuperResolution/blob/master/neural_enhance.ipynb) <br>
 
 
