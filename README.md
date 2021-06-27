@@ -15,7 +15,7 @@ This is a collection of Colab Notebooks for various neural image enhancers in an
 ---
 
 **Colab for:** [Neural Enhance](https://github.com/alexjc/neural-enhance) <br>
-**Papers:** [See original repository](https://github.com/alexjc/neural-enhance#3-background--research)
+**Papers:** [See original repository](https://github.com/alexjc/neural-enhance#3-background--research) <br>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/NeuralImageSuperResolution/blob/master/neural_enhance.ipynb) <br>
 
 
