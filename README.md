@@ -1,8 +1,9 @@
-# Neural Image Super-Resolution (colabs)
+# Neural Image Super-Resolution (Colabs)
 
 This is a collection of Colab Notebooks for various neural image enhancers in an attempt to enlarge low resolution images with restored details in high quality. All notebooks were made to run in Google Colaboratory, using Google Drive as data source and storage.
 
 ## Latest
+
 **Colab for:** [JoeyBallentine's fork](https://github.com/JoeyBallentine/ESRGAN) of [BlueAmulet's fork](https://github.com/BlueAmulet/ESRGAN) of [ESRGAN by Xinntao](https://github.com/xinntao/ESRGAN). <br>
 **Paper:** ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks https://arxiv.org/abs/1809.00219
 
@@ -11,6 +12,8 @@ This is a collection of Colab Notebooks for various neural image enhancers in an
 ![image](https://user-images.githubusercontent.com/50331907/123541722-97416b80-d74e-11eb-9f50-8451100840d6.png)
 
 ## Older
+
+Older notebooks are probably inferior and possibly outdated.
 
 **Colab for:** [uperresolution_gan](https://github.com/fukumame/superresolution_gan). <br>
 **Paper:** Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network https://arxiv.org/abs/1609.04802
