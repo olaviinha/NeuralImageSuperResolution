@@ -4,6 +4,8 @@ This is a collection of Colab Notebooks for various neural image enhancers in an
 
 ## Latest
 
+Works in Jun 2021.
+
 **Colab for:** [JoeyBallentine's fork](https://github.com/JoeyBallentine/ESRGAN) of [BlueAmulet's fork](https://github.com/BlueAmulet/ESRGAN) of [ESRGAN by Xinntao](https://github.com/xinntao/ESRGAN). <br>
 **Paper:** ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks https://arxiv.org/abs/1809.00219
 
