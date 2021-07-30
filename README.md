@@ -9,7 +9,8 @@ Works in Jun 2021.
 **Colab for:** [JoeyBallentine's fork](https://github.com/JoeyBallentine/ESRGAN) of [BlueAmulet's fork](https://github.com/BlueAmulet/ESRGAN) of [ESRGAN by Xinntao](https://github.com/xinntao/ESRGAN). <br>
 **Paper:** ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks https://arxiv.org/abs/1809.00219
 
-This notebook also works as a batch processor.
+Supports batch processing of an entire directory.<br>
+You can add more pretrained models from [upscale.wiki](https://upscale.wiki/wiki/Model_Database).
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/NeuralImageSuperResolution/blob/master/SuperRes_ESRGAN.ipynb)
 
