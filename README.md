@@ -4,7 +4,7 @@ This is a collection of Colab Notebooks for various neural image enhancers in an
 
 ## Latent Diffusion + FBCNN
 
-**Colab for:** [Latent Diffusion](https://github.com/CompVis/latent-diffusion) + [FBCNN](https://github.com/jiaxi-jiang/FBCNN)
+**Colab for:** [Latent Diffusion](https://github.com/CompVis/latent-diffusion) + [FBCNN](https://github.com/jiaxi-jiang/FBCNN) <br>
 **Papers:** High-Resolution Image Synthesis with Latent Diffusion Models https://arxiv.org/abs/2112.10752; Towards Flexible Blind JPEG Artifacts Removal https://arxiv.org/abs/2109.14573
 
 Sharpens image and removes JPEG artifacts. Does not increase resolution.
