@@ -2,7 +2,18 @@
 
 This is a collection of Colab Notebooks for various neural image enhancers in an attempt to enlarge low resolution images with restored details in high quality. All notebooks were made to run in Google Colaboratory, using Google Drive as data source and storage.
 
-## Latest: ESRGAN
+## Latent Diffusion + FBCNN
+
+**Colab for:** [Latent Diffusion](https://github.com/CompVis/latent-diffusion) + [FBCNN](https://github.com/jiaxi-jiang/FBCNN)
+**Papers:** High-Resolution Image Synthesis with Latent Diffusion Models https://arxiv.org/abs/2112.10752; Towards Flexible Blind JPEG Artifacts Removal https://arxiv.org/abs/2109.14573
+
+Sharpens image and removes JPEG artifacts. Does not increase resolution.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/NeuralImageSuperResolution/blob/master/LatentDiffusionFBCNN.ipynb)
+
+![image](https://user-images.githubusercontent.com/50331907/163676020-69797d36-d58f-438c-8087-000612121b53.png)
+
+## ESRGAN
 
 Works in Jun 2021.
 
