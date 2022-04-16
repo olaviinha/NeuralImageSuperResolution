@@ -11,7 +11,7 @@ Sharpens image and removes JPEG artifacts by a combination of Latent Diffusion S
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/NeuralImageSuperResolution/blob/master/LatentDiffusionFBCNN.ipynb)
 
-![image](https://user-images.githubusercontent.com/50331907/163676020-69797d36-d58f-438c-8087-000612121b53.png)
+![image](https://user-images.githubusercontent.com/50331907/163679045-896ddcca-20aa-4392-a53d-637026b25cfd.png)
 
 ## ESRGAN
 
