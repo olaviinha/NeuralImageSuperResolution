@@ -21,7 +21,7 @@ Works in Jun 2021.
 **Paper:** ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks https://arxiv.org/abs/1809.00219
 
 Supports batch processing of an entire directory.<br>
-You can add more pretrained models from [upscale.wiki](https://upscale.wiki/wiki/Model_Database).
+You can add more pretrained models from [upscale.wiki](https://upscale.wiki/wiki/Model_Database), probably.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/NeuralImageSuperResolution/blob/master/SuperRes_ESRGAN.ipynb)
 
