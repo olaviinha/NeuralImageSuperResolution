@@ -1,5 +1,7 @@
 # Neural Image Super-Resolution (Colabs)
 
+❗️ This repository is not actively maintained since 2023, as closed-source state-of-the-art superresolution solutions are now widely available for everyone.
+
 This is a collection of simplified Colab Notebooks for various neural image enhancers in an attempt to enlarge low resolution images with restored details in high quality. All notebooks support batch processing of an entire directory. All notebooks were made to run in Google Colaboratory, using Google Drive as data source and storage.
 
 ## Latent Diffusion + FBCNN
